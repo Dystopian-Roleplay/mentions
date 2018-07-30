@@ -9,7 +9,7 @@
         "pawn-lang/YSI-Includes"
     ],
     "dev_dependencies": [
-        "ScavengeSurvive/test-boilerplate",
+        "Dystopian-Roleplay/test-boilerplate",
         "Southclaws/ut_mock_players"
     ],
     "builds": [
